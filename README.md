@@ -10,3 +10,10 @@ To use this example, first install these packages:
 To install these:
 
 ```npm install @tryforge/forgescript @tryforge/forge.canvas @tryforge/forge.db @tryforge/forge.link```
+# Hosting?
+Try to use these good hosting platforms:
+- Galactic Hosting
+- PylexNodes
+- Bot-Hosting.net
+
+These hosting websites are sure to help you in the long run.
