@@ -6,5 +6,6 @@ To use this example, first install these packages:
 - ForgeScript,
 - ForgeDB,
 - ForgeCanvas.
+  
 To install these:
 ```npm install @tryforge/forgescript @tryforge/forge.canvas @tryforge/forge.db @tryforge/forge.link```
